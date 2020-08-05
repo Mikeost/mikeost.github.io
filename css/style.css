@@ -4,7 +4,11 @@ body{
 	margin: 0;
 	padding: 0;
 	font-family: 'Rowdies', sans-serif;
+	color: #ffffff;
 } 
+.updateTime{
+	color: #ffffff;
+}
 .banner 
 {
 	width: 100%;
@@ -61,7 +65,7 @@ img{
 button{
 	color: White;
 	cursor: pointer;
-	background-color: rgb(0,0,0,0);
+	background-color: rgba(12,12,12,.65);
 	font-family: monospace;
 	border-color: blueviolet;
 	border-width: 1px;
@@ -89,5 +93,15 @@ h2{
 	overflow: hidden;
 	white-space: nowrap;
 }
+span#title {
+	font-size: 24px;
+	font-weight: bold;
+	text-shadow: 0px 0px 2px #000000;
+	color:white;
+}
 
+span#time {
+	font-size: 16px;
+	text-shadow: 0px 0px 4px #000000;
+}
 
