@@ -1,3 +1,2 @@
-# mikeost.github.io
-Mikeost Website
-mikeost.github.io/main.html
+# mikeost.github.io WebSite
+[Mikeost Website](mikeost.github.io/main.html)
